@@ -29,9 +29,10 @@
     **Jiebao Zhang**, Wenhua Qian*, Rencan Nie, Jinde Cao, Dan Xu <br>
     Applied Intelligence, 2022. (JCR Q2, CCF-C), [PDF](https://doi.org/10.1007/s10489-022-03437-z), [Code](https://github.com/wowotou1998/Adam-FGSM)
 
-+  Exploring Adversarial Examples and Adversarial Robustness of Convolutional Neural Networks by Mutual Information <br>
++ Exploring Adversarial Examples and Adversarial Robustness of Convolutional Neural Networks by Mutual Information <br>
     **Jiebao Zhang**, Wenhua Qian*, Rencan Nie, Jinde Cao, Dan Xu <br>
-    arXiv, 2022.  [PDF](https://arxiv.org/abs/2207.05756), [Code](https://github.com/wowotou1998/exploring-adv-by-mutual-info)
+    submitted to IEEE Transactions on Information Forensics and Security, 2022. 
+    [arXiv](https://arxiv.org/abs/2207.05756), [Code](https://github.com/wowotou1998/exploring-adv-by-mutual-info)
 
 ## 科研项目
 
