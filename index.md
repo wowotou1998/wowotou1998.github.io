@@ -31,7 +31,7 @@
 
 +  Exploring Adversarial Examples and Adversarial Robustness of Convolutional Neural Networks by Mutual Information <br>
     **Jiebao Zhang**, Wenhua Qian*, Rencan Nie, Jinde Cao, Dan Xu <br>
-    arXiv, 2022.  [PDF](https://arxiv.org/abs/2207.05756), [Code](https://github.com/wowotou1998/exploring_adv_by_mutual_info)
+    arXiv, 2022.  [PDF](https://arxiv.org/abs/2207.05756), [Code](https://github.com/wowotou1998/exploring-adv-by-mutual-info)
 
 ## 科研项目
 
