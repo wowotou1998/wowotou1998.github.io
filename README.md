@@ -35,10 +35,11 @@
     **Jiebao Zhang**, Wenhua Qian*, Rencan Nie, Jinde Cao, Dan Xu <br>
     submitted to Information Processing & Management (In Peer Review), 2022. 
     [arXiv](https://arxiv.org/abs/2207.05756), [Code](https://github.com/wowotou1998/exploring-adv-by-mutual-info)
+    
 + LP-BFGS Attack: An Adversarial Attack Based on the Hessian with Limited Pixels <br>
     **Jiebao Zhang**, Wenhua Qian*, Rencan Nie, Jinde Cao, Dan Xu <br>
-    submitted to 2023 IEEE International Conference on Acoustics, Speech and Signal Processing, (CCF-B). [arXiv](https://arxiv.org/abs/2210.15446)
-    [Code](https://github.com/wowotou1998/LP-BFGS-attack)
+    submitted to 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (submitted). 
+    [arXiv](https://arxiv.org/abs/2210.15446), [Code](https://github.com/wowotou1998/LP-BFGS-attack)
 
 # 科研项目
 
