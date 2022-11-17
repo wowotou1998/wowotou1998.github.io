@@ -17,7 +17,7 @@
 + **硕士**, 云南大学 (双一流, 211类院校),  2020.09.01-至今
   - **专业**: 计算机科学与技术
   - **GPA**: 3.6/4.0 [成绩单](./files/gradereport_YNU.pdf) 
-  - **奖项荣誉**: 学业奖学金三等奖(2020.11), 学业奖学金三等奖(2021.11)        
+  - **奖项荣誉**: 国家奖学金(2022), 学业奖学金一等奖(2021.11)学业奖学金三等奖(2020.11), 学业奖学金三等奖(2021.11)        
 
 + **本科**, 安徽工业大学, 2016.09.01-2020.06.01
   - **专业**: 信息管理与信息系统
@@ -33,8 +33,12 @@
 
 + Exploring Adversarial Examples and Adversarial Robustness of Convolutional Neural Networks by Mutual Information <br>
     **Jiebao Zhang**, Wenhua Qian*, Rencan Nie, Jinde Cao, Dan Xu <br>
-    submitted to IEEE Transactions on Information Forensics and Security (In Peer Review), 2022. 
+    submitted to Information Processing & Management (In Peer Review), 2022. 
     [arXiv](https://arxiv.org/abs/2207.05756), [Code](https://github.com/wowotou1998/exploring-adv-by-mutual-info)
++ LP-BFGS Attack: An Adversarial Attack Based on the Hessian with Limited Pixels <br>
+    **Jiebao Zhang**, Wenhua Qian*, Rencan Nie, Jinde Cao, Dan Xu <br>
+    submitted to 2023 IEEE International Conference on Acoustics, Speech and Signal Processing, (CCF-B). [arXiv](https://arxiv.org/abs/2210.15446)
+    [Code](https://github.com/wowotou1998/LP-BFGS-attack)
 
 # 科研项目
 
