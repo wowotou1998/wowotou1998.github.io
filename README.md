@@ -27,16 +27,16 @@
 
 + Generate Adversarial Examples by Adaptive Moment Iterative Fast Gradient Sign Method <br>
     **Jiebao Zhang**, Wenhua Qian*, Rencan Nie, Jinde Cao, Dan Xu <br>
-    Applied Intelligence 2022. **Accepted**. (JCR Q2, CCF-C) [PDF](https://doi.org/10.1007/s10489-022-03437-z) [Code](https://github.com/wowotou1998/Adam-FGSM)
+    Applied Intelligence 2022. **Accepted**. (JCR Q2, CCF-C) [DOI](https://doi.org/10.1007/s10489-022-03437-z) [Code](https://github.com/wowotou1998/Adam-FGSM)
 
 + Exploring Adversarial Examples and Adversarial Robustness of Convolutional Neural Networks by Mutual Information <br>
     **Jiebao Zhang**, Wenhua Qian*, Rencan Nie, Jinde Cao, Dan Xu <br>
-    Information Sciences 2022. **In peer review**. (JCR Q2, CCF-B)
+    Neural Computing & Applications 2023. **In peer review**. (JCR Q2, CCF-C)
     [arXiv](https://arxiv.org/abs/2207.05756) [Code](https://github.com/wowotou1998/exploring-adv-by-mutual-info)
     
 + LP-BFGS Attack: An Adversarial Attack Based on the Hessian with Limited Pixels <br>
     **Jiebao Zhang**, Wenhua Qian*, Rencan Nie, Jinde Cao, Dan Xu <br>
-    Information Sciences 2022. **In peer review**. (JCR Q2, CCF-B) 
+    Computers & Security 2023. **In peer review** (JCR Q2, CCF-B). 
     [arXiv](https://arxiv.org/abs/2210.15446) [Code](https://github.com/wowotou1998/LP-BFGS-attack)
 
 # 科研项目
